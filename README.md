@@ -8,3 +8,4 @@ To use it open up the vscode application, open the terminal and run node index.j
 
 ## Video
 
+https://drive.google.com/file/d/1vASn_bCZD5BfMdvkthn_fjapkHWcz7wj/view
